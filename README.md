@@ -1,6 +1,7 @@
 # homework7_1
+<p align="center">
 <img src= https://media.giphy.com/media/WWdJ4bEzFomUE/giphy.gif>
-
+</p>
 Notes for Longest Nap: 
 
  
